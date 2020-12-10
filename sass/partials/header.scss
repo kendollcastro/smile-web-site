@@ -1,17 +1,10 @@
-.wrapper-1{
-  width: 1600px;
-  background-image: url(/images/1.jpg);
-  background-size: cover;
-}
 
-#wrapper-header{
-  width: 1400px;
-  position: relative;
-}
+//Header
 
 .logo a{
   position: absolute;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
   text-transform: uppercase;
   text-decoration: none;
   color: white;
@@ -31,8 +24,10 @@
   border-top: solid 3px white;
   border-bottom: solid 3px white;
   margin-top: 60px;
-  margin-right: 100px;
+  margin-right: 25px;
 }
+
+//Texto del Header
 
 .titulo-principal p{
   margin: 0 auto;
@@ -43,7 +38,7 @@
 
 .titulo-principal{
   margin-left: auto;
-  max-width: 800px;
+  max-width: 750px;
 }
 
 .titulo-smile{
@@ -55,3 +50,24 @@
 .titulo-descripcion{
   font-size: 5.1875rem;
 }
+
+//Slider target
+
+.slider-target{
+  text-align: center;
+}
+
+.slider-target p{
+  margin-left: 240px;
+  margin-top: 240px;
+  font-size: 100px;
+}
+
+.slider-target p{
+  color: black;
+}
+
+.slider-target em{
+  color: white;
+}
+
