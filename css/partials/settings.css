@@ -1,9 +1,1 @@
-body {
-  max-width: 1440px;
-  margin: 0;
-  padding: 0; }
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table; }
+body{max-width:1440px;margin:0;padding:0}.clearfix::after{content:"";clear:both;display:table}
