@@ -12,7 +12,7 @@
   margin-top: 30px;
   margin-left: 200px;
   padding: 24px 22px 24px 22px ;
-  letter-spacing: 5px;
+  letter-spacing: 0.312rem;
 }
 
 .menu-hamburguesa a{
@@ -27,6 +27,19 @@
   margin-right: 25px;
 }
 
+//Imagen Header
+
+.wrapper-1{
+  background-image: url(/images/1.jpg);
+  background-size: cover;
+  width: 1600px;
+}
+
+#wrapper-header{
+  width: 1400px;
+  position: relative;
+}
+
 //Texto del Header
 
 .titulo-principal p{
@@ -38,12 +51,12 @@
 
 .titulo-principal{
   margin-left: auto;
-  max-width: 750px;
+  max-width: 53%;
 }
 
 .titulo-smile{
   text-transform: uppercase;
-  padding-top: 295px;
+  padding-top: 21%;
   font-size: 11.5rem;
 }
 
@@ -58,9 +71,9 @@
 }
 
 .slider-target p{
-  margin-left: 240px;
-  margin-top: 240px;
-  font-size: 100px;
+  margin-left: 17%;
+  margin-top: 17%;
+  font-size: 6.25rem;
 }
 
 .slider-target p{

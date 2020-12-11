@@ -14,11 +14,11 @@
 
 .text-cont-1 h2 {
   font-weight: lighter;
-  line-height: 30px;
-  font-size: 50px; }
+  line-height: 1.875rem;
+  font-size: 3.125rem; }
 
 .text-cont-1 p {
-  line-height: 10px; }
+  line-height: 0.625rem; }
 
 .line-black::after {
   content: "";
@@ -32,7 +32,6 @@
 
 .text-1-cont-2 {
   text-align: center;
-  width: 900px;
-  margin: 100px 200px 100px 245px;
-  text-justify: newspaper;
+  width: 64%;
+  margin: 7% 14% 7% 17%;
   text-align: center; }

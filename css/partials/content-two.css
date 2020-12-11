@@ -6,26 +6,26 @@
   background-color: #ffe9e2; }
 
 .text-cont-2 p {
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: bold;
   padding-top: 140px;
-  margin-left: 100px;
+  margin-left: 12%;
   margin-top: 0; }
 
 .text-cont-2 h3 {
   font-weight: lighter;
-  margin-left: 100px;
-  margin-top: 70px;
-  margin-bottom: 60px; }
+  margin-left: 12%;
+  margin-top: 8%;
+  margin-bottom: 7%; }
 
 .text-cont-2 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  width: 500px; }
+  width: 62%; }
 
 .point-ctn-2 {
   font-size: 80px;
   margin-left: 100px;
-  padding-bottom: 144px; }
+  padding-bottom: 200px; }
 
 .point-ctn-2 em {
   color: grey; }

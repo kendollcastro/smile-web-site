@@ -3,17 +3,6 @@ body{
   padding: 0;
 }
 
-.wrapper-1{
-  max-width: 100%;
-  background-image: url(/images/1.jpg);
-  background-size: cover;
-}
-
-#wrapper-header{
-  width: 1400px;
-  position: relative;
-}
-
 .clearfix::after{
   content: "";
   clear: both;

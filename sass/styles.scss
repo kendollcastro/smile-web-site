@@ -1,3 +1,5 @@
+@import'partials/normalize';
+
 @import'partials/settings.scss';
 
 @import'partials/header.scss';
@@ -13,3 +15,5 @@
 @import'partials/content-four.scss';
 
 @import'partials/footer.scss';
+
+@import'breakpoints/all';

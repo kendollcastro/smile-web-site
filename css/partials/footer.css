@@ -16,7 +16,7 @@
 .nav-footer p {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 1.25rem;
   color: black; }
 
 .nav-footer ul {
@@ -26,7 +26,7 @@
 .nav-footer li, a {
   line-height: 25px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   text-decoration: none;
   font-weight: normal;
   list-style: none; }
@@ -37,8 +37,8 @@
 .contact-footer {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   width: 250px;
-  font-size: 20px;
-  line-height: 25px;
+  font-size: 1.25rem;
+  line-height: 1.562rem;
   margin-right: 100px;
   float: left; }
 
@@ -46,21 +46,21 @@
   text-transform: uppercase; }
 
 .contact-info p {
-  font-size: 16px; }
+  font-size: 1rem; }
 
 .contact-info-2 p {
-  font-size: 16px; }
+  font-size: 1rem; }
 
 .nav-contact p {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 1.25rem;
   padding-top: 22px;
   color: black; }
 
 .suscribe-form label {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   width: 300px; }
 
 .suscribe-form input {
@@ -72,7 +72,7 @@
 .suscribe-form button {
   text-align: center;
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 1rem;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-weight: bold;
   padding: 12px 25px;
